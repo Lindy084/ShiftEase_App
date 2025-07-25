@@ -1,0 +1,8 @@
+{
+  "builds": [
+    { "src": "start.sh", "use": "@vercel/static-build" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "start.sh" }
+  ]
+}
