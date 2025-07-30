@@ -1,4 +1,4 @@
- 🚀 ShiftEase: AI-Powered HR Assistant
+ 🚀 ShiftEase: AI-Powered HR Assistant.
 
 ShiftEase is a smart HR tool designed to simplify and automate shift and time-off management in the workplace. Built with Python and Streamlit, this AI-powered web app helps HR teams and employees manage leave requests, shift visibility, and records in a user-friendly dashboard.
 
